@@ -9,3 +9,6 @@ tectonic-*.tar.gz
 tectonic-license.txt
 terraform.tfstate*
 terraform.tfvars
+
+*.swp
+bin/*

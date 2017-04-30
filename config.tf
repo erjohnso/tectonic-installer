@@ -8,7 +8,8 @@ EOF
 }
 
 terraform {
-  required_version = ">= 0.9.4"
+  #required_version = ">= 0.9.4"
+  required_version = ">= 0.8.8"
 }
 
 variable "tectonic_container_images" {
